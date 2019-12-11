@@ -1,5 +1,5 @@
 ---
-title: Estandares para Aire Ambiental en Colombia
+title: Estandares de Calidad del Aire Ambiente en Colombia
 description: Compilacion de estandares o normas Colombianas en la matriz aire ambiente, incluye Ley 99 de 1993, Decreto 948 de 1995, resoluciones reglamentarias, y documentos de politica publica en contaminacion del aire.
 categories: Blog
 comments: true
