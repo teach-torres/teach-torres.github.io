@@ -5,7 +5,7 @@ categories: Blog
 comments: true
 ---
 
-Ley 99 de 1993. Crea el Ministerio del Medio Ambiente, reordena el sector publico encargado de la gestion y conservacion del medio ambiente y los recursos naturales renovables, organiza el Sistema de Informacion Nacional Ambiental SINA y otras disposiciones.
+[Ley 99 de 1993](https://trello-attachments.s3.amazonaws.com/5dc99092bab3766d637f10c1/5dc990f89974277965ff5828/379908770200d91b6c8eba9abfff0f5b/Ley_99_DE_1993-Dic-22.pdf). Crea el Ministerio del Medio Ambiente, reordena el sector publico encargado de la gestion y conservacion del medio ambiente y los recursos naturales renovables, organiza el Sistema de Informacion Nacional Ambiental SINA y otras disposiciones.
 
 Resolucion 898 de 1995. Regulan los criterios ambientales de calidad de los combustibles liquidos y solidos utilizados en hornos y caldera de uso comercial e industrial y en motores de combustion interna de vehiculos automotores.
 
